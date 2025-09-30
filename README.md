@@ -1,10 +1,4 @@
 # CTF Tools
-This repository is a place where I want to keep all the useful *resources/websites/tools* to solve CTF challenges. All the tools will be divided by category, in order to have a better organization.
-
-This repo is for me but also for my CTF team, and why not for whoever will get to this page.
-
-It will contain even some "obvious" links, like the ASCII table and so on, because it is a page indended to be kept open during CTFs: you never know what will come in handy!
-
 ## Training 🚩
 > A list of useful websites to train our skills and knowledge.
 - [picoCTF](https://picoctf.org/)
